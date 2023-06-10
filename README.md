@@ -16,3 +16,7 @@ Disclaimer: Once a chapter is done, I'll link it below. This is a rough draft of
 10. IF
 11. ControlNet
 12. UniControlNet
+13. inference time optimisation-> vae tiling, attention slicing etc..
+14. stable diffusion variants
+15. Watermarking diffusion using Tree Ring method 
+16. Interpolations in latent space
