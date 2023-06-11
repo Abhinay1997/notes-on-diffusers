@@ -9,14 +9,16 @@ Disclaimer: Once a chapter is done, I'll link it below. This is a rough draft of
 3. DDIM Inversion
 4. Breaking down a diffusion model
 5. Latent Diffusion
-6. Stable Diffusion
-7. Dalle-2 / UnCLIP
-8. Dreambooth
-9. LoRA
-10. IF
-11. ControlNet
-12. UniControlNet
-13. inference time optimisation-> vae tiling, attention slicing etc..
-14. stable diffusion variants
-15. Watermarking diffusion using Tree Ring method 
-16. Interpolations in latent space
+6. Textual Inversion
+7. Classifier free guidance
+8. Stable Diffusion
+9. Dalle-2 / UnCLIP
+10. Dreambooth
+11. LoRA
+12. IF
+13. ControlNet
+14. UniControlNet
+15. inference time optimisation-> vae tiling, attention slicing etc..
+16. stable diffusion variants
+17. Watermarking diffusion using Tree Ring method 
+18. Interpolations in latent space
