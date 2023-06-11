@@ -22,3 +22,4 @@ Disclaimer: Once a chapter is done, I'll link it below. This is a rough draft of
 16. stable diffusion variants
 17. Watermarking diffusion using Tree Ring method 
 18. Interpolations in latent space
+19. Prompt Free Diffusion
