@@ -76,9 +76,9 @@ $\alpha_t = 1-\beta_t$
 
 
 Important Notes:-
-```
-The dimensionality of the data and the latent variables is the same i.e if we're generating an image of size 256 x 256, the initial noise sample is also of size 256 x 256 and each intermediate sample that we progressively denoise is also of shape 256 x 256.
-```
+
+>The dimensionality of the data and the latent variables is the same i.e if we're generating an image of size 256 x 256, the initial noise sample is also of size 256 x 256 and each intermediate sample that we progressively denoise is also of shape 256 x 256.
+
 Glossary of Terms
 
 * A Markov process is a stochaistic (random) process which lets you predict future outcomes based on its current state and nothing else. Expanding on this, a Markov chain is a set of states where each state can be predicted based on only its previous states and each state represents a system at a point of time.
